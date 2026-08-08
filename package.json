@@ -1,0 +1,21 @@
+{
+  "name": "node-fundamentals",
+  "version": "1.0.0",
+  "description": "Learn JavaScript + Node.js from zero to hero — Malaysian style! 🇲🇾",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node scripts/verify.js"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "tutorial",
+    "learning",
+    "beginner",
+    "malaysia"
+  ],
+  "license": "MIT"
+}

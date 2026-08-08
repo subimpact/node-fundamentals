@@ -1,0 +1,18 @@
+# Dependencies (this repo has none, but just in case)
+node_modules/
+
+# Lesson 14 creates this when you run it
+temp_files/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor junk
+.vscode/
+.idea/
+*.swp
