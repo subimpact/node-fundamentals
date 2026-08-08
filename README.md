@@ -5,7 +5,7 @@
 ![Node](https://img.shields.io/badge/Node-24%20LTS-339933?logo=nodedotjs&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Lessons](https://img.shields.io/badge/Lessons-20-blue)
-![Exercises](https://img.shields.io/badge/Exercises-13-orange)
+![Exercises](https://img.shields.io/badge/Exercises-18-orange)
 
 A complete, beginner-friendly JavaScript + Node.js learning guide with hands-on lessons, exercises, and solutions. Written in fun Malaysian English so you won't fall asleep reading code. Confirm shiok one!
 
